@@ -1,1 +1,27 @@
-# public-speaking
+# Pulis Public Speaking
+
+## Palestras 
+
+Todas as apresentações eu fiz no passado, elas estão ordenadas por data.
+
+### Apresentações anteriores
+
+| Data    | Evento          | Titulo / Slide Deck  | Repositorio   |  Idioma   |
+|:----:   |---------------- |----------------------|:-------------:| :--------:|
+|29/04/21 | [Café, Testes e Pão de Queijo](https://www.youtube.com/watch?v=SLooknLLaR0) |[52º Café, Testes e Pão de Queijo - Testando acessibilidade com Cypress](https://speakerdeck.com/brunopulis/52o-cafe-testes-e-pao-de-queijo-testando-acessibilidade-com-cypress)|[52 Café Teste com Pão de Queijo](https://github.com/brunopulis/cafe-testes-pao-de-queijo-a11y)| PT-BR|
+|17/03/21 | [DTAR Conference 2021](https://www.youtube.com/watch?v=907ljQl3XE4) | [Mitigando incosistências em API Rest através de testes de retrocompatibilidade](https://speakerdeck.com/brunopulis/mitigando-incosistencias-em-api-rest-atraves-de-testes-de-retrocompatibilidade) |-| PT-BR|
+|17/02/21 | Vazamento de Dados e dicas de seguranca |Live Vazamento de Dados|-| PT-BR|
+|15/02/21 | [Bee Lab Academy](https://www.youtube.com/watch?v=Eol80aQdVvg&list=PLlzueRTKpBcG8iXa0Dx4AdK2cfitVabxB) |[#0013: COMO IMPLEMENTAR A ACESSIBILIDADE DIGITAL EM TIMES ÁGEIS](https://www.youtube.com/watch?v=Eol80aQdVvg)|-| PT-BR|
+|17/12/20 | [AGXP2020 - Dia 03 - ALTER FACE, Testes de acessibilidade e Testes de segurança](https://www.youtube.com/watch?v=HBJAjCl5tWc) |[AGXP 2020 - Testes de acessibilidade com Cypress](https://speakerdeck.com/brunopulis/agxp-2020-testes-de-acessibilidade-com-cypress)| [Cypress A11y AGXP 2020](https://github.com/brunopulis/cypress-a11y-agxp)| PT-BR|
+|20/10/20 | [Hacktoberfest BH](https://www.youtube.com/watch?v=eX2FfNlN89Q) |[Precisamos falar sobre HTML](https://speakerdeck.com/brunopulis/precisamos-falar-sobre-html)| - | PT-BR|
+|21/09/20 | [TSPI Conference 2020: Mentalidade e Métodos](https://www.youtube.com/watch?v=vybPVh29N-0) |[A acessibilidade durante a Pandemia](https://speakerdeck.com/brunopulis/a-acessibilidade-durante-a-pandemia)| - | PT-BR|
+|24/09/19 | 7 Semana de Sustentabilidade e Responsibilidade Social 2019 |[Desenvolvendo sites com empatia](https://speakerdeck.com/brunopulis/desenvolvendo-sites-com-empatia)| - | PT-BR|
+
+## Podcasts 
+
+Participações de Podcasts.
+
+| Podcast | Episode |
+|---------|---------|
+| [Julio de Lima Podcast](https://anchor.fm/juliodelimas/) | [Ep 3 Temporada 2: Acessibilidade na Qualidade de Software com Bruno Pulis](https://open.spotify.com/episode/1P3JUdthwl98goVeqhAAV5?si=u6n6V07HSNiJPLP6fkxC8Q&nd=1) | 🇧🇷 |
+| [AllCast](https://open.spotify.com/show/3XU39ouq1oRphGGLXe5Tgd) | [AllCast Sobre Acessibilidade #6](https://open.spotify.com/episode/0bor4de4tBJxF5IXEfSOzg) |
