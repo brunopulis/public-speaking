@@ -8,6 +8,13 @@ Lista de apresentacoes e participacoes em eventos.
 
 Todas as apresentações eu fiz no passado, elas estão ordenadas por data.
 
+### Agendadas
+
+| Data    | Evento          | Titulo / Slide Deck  | Repositorio   |  Idioma   |
+|:----:   |---------------- |----------------------|:-------------:| :--------:|
+|28/09/21 | Semana de Sustentabilidade e Responsabilidade Social 2021 |- | - | - |-| PT-BR|
+
+
 ### Apresentações anteriores
 
 | Data    | Evento          | Titulo / Slide Deck  | Repositorio   |  Idioma   |
