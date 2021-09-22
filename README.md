@@ -18,7 +18,7 @@ Todas as apresentações eu fiz no passado, elas estão ordenadas por data.
 ### Apresentações anteriores
 
 | Data    | Evento          | Titulo / Slide Deck  | Repositorio   |  Idioma   |
-|:----:   |---------------- |----------------------|:-------------:| :--------:|
+|:----:   |---------------- |----------------------| ------------- | :--------:|
 |29/04/21 | [Café, Testes e Pão de Queijo](https://www.youtube.com/watch?v=SLooknLLaR0) |[52º Café, Testes e Pão de Queijo - Testando acessibilidade com Cypress](https://speakerdeck.com/brunopulis/52o-cafe-testes-e-pao-de-queijo-testando-acessibilidade-com-cypress)|[52 Café Teste com Pão de Queijo](https://github.com/brunopulis/cafe-testes-pao-de-queijo-a11y)| PT-BR|
 |17/03/21 | [DTAR Conference 2021](https://www.youtube.com/watch?v=907ljQl3XE4) | [Mitigando incosistências em API Rest através de testes de retrocompatibilidade](https://speakerdeck.com/brunopulis/mitigando-incosistencias-em-api-rest-atraves-de-testes-de-retrocompatibilidade) |-| PT-BR|
 |17/02/21 | Vazamento de Dados e dicas de seguranca |Live Vazamento de Dados|-| PT-BR|
@@ -27,6 +27,15 @@ Todas as apresentações eu fiz no passado, elas estão ordenadas por data.
 |20/10/20 | [Hacktoberfest BH](https://www.youtube.com/watch?v=eX2FfNlN89Q) |[Precisamos falar sobre HTML](https://speakerdeck.com/brunopulis/precisamos-falar-sobre-html)| - | PT-BR|
 |21/09/20 | [TSPI Conference 2020: Mentalidade e Métodos](https://www.youtube.com/watch?v=vybPVh29N-0) |[A acessibilidade durante a Pandemia](https://speakerdeck.com/brunopulis/a-acessibilidade-durante-a-pandemia)| - | PT-BR|
 |24/09/19 | 7 Semana de Sustentabilidade e Responsibilidade Social 2019 |[Desenvolvendo sites com empatia](https://speakerdeck.com/brunopulis/desenvolvendo-sites-com-empatia)| - | PT-BR|
+|14/05/19 | [The Developer Conference 2019 - Belo Horizonte](https://thedevconf.com/tdc/2019/belohorizonte) |[Always bet on A11y](https://speakerdeck.com/brunopulis/always-bet-on-a11y)|  | PT-BR|
+|19/11/17 | GDG DevFest Nordeste |[O lado oculto dos componentes - acessibilidade como sua aliada](https://speakerdeck.com/brunopulis/o-lado-oculto-dos-componentes-acessibilidade-como-sua-aliada)|  | PT-BR|
+|19/11/17 | GDG DevFest Belo Horizonte |[O lado oculto dos componentes - acessibilidade como sua aliada](https://speakerdeck.com/brunopulis/o-lado-oculto-dos-componentes-acessibilidade-como-sua-aliada)|  | PT-BR|
+|19/11/17 | GDG DevFest Nordeste |[Componentes: o lado sombrio que não te contaram](https://speakerdeck.com/brunopulis/componentes-o-lado-sombrio-que-nao-te-contaram)|  | PT-BR|
+|17/11/14 | Semana Uni+ |[Tunando sua App com WAI-ARIA](https://speakerdeck.com/brunopulis/tunando-sua-app-com-wai-aria)|  |PT-BR|
+|26/09/14 | Semana do Design Web |[Do design grafico a Web](https://speakerdeck.com/brunopulis/do-design-grafico-a-web)|  |PT-BR|
+|18/09/14 | Evento Una Barreiro  |[Incluíndo a acessibilidade no desenvolvimento Web](https://speakerdeck.com/brunopulis/incluindo-a-acessibilidade-no-desenvolvimento-web)|  |PT-BR|
+|29/05/14 | VIII Workshop de TI - Faculdade Cotemig |[Acessibilidade não é um monstro!](https://speakerdeck.com/brunopulis/acessibilidade-nao-e-um-monstro)|  |PT-BR|
+|01/12/13 | DevInCompanyBH - segunda edicao |[Acessibilidade na prática](https://speakerdeck.com/brunopulis/acessibilidade-na-pratica)|  |PT-BR|
 
 ## Open Source
 
