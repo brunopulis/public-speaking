@@ -10,9 +10,9 @@ Todas as apresentações eu fiz no passado, elas estão ordenadas por data.
 
 ### Agendadas
 
-| Data    | Evento          | Titulo / Slide Deck  | Repositorio   |  Idioma   |
+| Data    | Evento          | Titulo               | Localizacao   |  Idioma   |
 |:----:   |---------------- |----------------------|:-------------:| :--------:|
-|28/09/21 | Semana de Sustentabilidade e Responsabilidade Social 2021 |- | - | - |-| PT-BR|
+|28/09/21 | Semana de Sustentabilidade e Responsabilidade Social 2021 |- | Online | PT-BR|
 
 
 ### Apresentações anteriores
