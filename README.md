@@ -21,6 +21,21 @@ Todas as apresentações eu fiz no passado, elas estão ordenadas por data.
 |21/09/20 | [TSPI Conference 2020: Mentalidade e Métodos](https://www.youtube.com/watch?v=vybPVh29N-0) |[A acessibilidade durante a Pandemia](https://speakerdeck.com/brunopulis/a-acessibilidade-durante-a-pandemia)| - | PT-BR|
 |24/09/19 | 7 Semana de Sustentabilidade e Responsibilidade Social 2019 |[Desenvolvendo sites com empatia](https://speakerdeck.com/brunopulis/desenvolvendo-sites-com-empatia)| - | PT-BR|
 
+## Open Source
+
+Contribuições para os projetos Open Source.
+
+| Projetos        | Link                                                                                           | 
+|---------        |---------                                                                                       |
+| Awesome A11y    | [https://github.com/brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y)       |
+| Tradução para português do Eleventy WCAG Reporter| [https://github.com/hidde/eleventy-wcag-reporter](https://github.com/hidde/eleventy-wcag-reporter)|
+| Awesome Cypress | [https://github.com/brunopulis/awesome-cypress](https://github.com/brunopulis/awesome-cypress) |
+| QA Challenges   | [https://github.com/qa-brasil/qa-challenges](https://github.com/qa-brasil/qa-challenges)       |
+| QA Vagas        | [https://github.com/qa-brasil/vagas](https://github.com/qa-brasil/vagas)                       |
+| QA Eventos      | [https://github.com/qa-brasil/eventos](https://github.com/qa-brasil/eventos)                   |
+| Dialetus        | [https://github.com/dialetus](https://github.com/dialetus)                                     |
+| DevDay 2015     | [https://github.com/devday/devday.github.com/tree/master/2015](https://github.com/devday/devday.github.com/tree/master/2015)|
+
 ## Podcasts 
 
 Participações de Podcasts.
