@@ -1,5 +1,9 @@
 # Pulis Public Speaking
 
+Lista de apresentacoes e participacoes em eventos. 
+
+> Esse repositorio foi inspirado no [Public Speaking](https://github.com/eliasnogueira/public-speaking) do Elias Nogueira.
+
 ## Palestras 
 
 Todas as apresentações eu fiz no passado, elas estão ordenadas por data.
