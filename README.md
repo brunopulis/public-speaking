@@ -12,7 +12,8 @@ Todas as apresentações eu fiz no passado, elas estão ordenadas por data.
 
 | Data    | Evento          | Titulo               | Localizacao   |  Idioma   |
 |:----:   |---------------- |----------------------|:-------------:| :--------:|
-|28/09/21 | Semana de Sustentabilidade e Responsabilidade Social 2021 | | Online | PT-BR|
+|19/10/21 | A definir | A definir | Online | PT-BR|
+|28/09/21 | Semana de Sustentabilidade e Responsabilidade Social 2021 | Desenvolvimento com práticas acessíveis | Online | PT-BR|
 
 
 ### Apresentações anteriores
