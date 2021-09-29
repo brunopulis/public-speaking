@@ -18,7 +18,7 @@ Todas as apresentações eu fiz no passado, elas estão ordenadas por data.
 
 | Data    | Evento          | Titulo / Slide Deck  | Repositorio   |  Idioma   |
 |:----:   |---------------- |----------------------| ------------- | :--------:|
-|28/09/21 | Semana de Sustentabilidade e Responsabilidade Social 2021 | [Desenvolvimento com práticas acessíveis](https://speakerdeck.com/brunopulis/desenvolvimento-com-praticas-acessiveis) | Online | PT-BR|
+|28/09/21 | Semana de Sustentabilidade e Responsabilidade Social 2021 | [Desenvolvimento com práticas acessíveis](https://speakerdeck.com/brunopulis/desenvolvimento-com-praticas-acessiveis) |  | PT-BR|
 | 24/08/21 | [Projeto Testers](https://www.youtube.com/watch?v=zkXqR0dNxj4) | [Analista de Acessibilidade](https://www.youtube.com/watch?v=6cfdgf-VLA0) | | PT-BR |
 |29/04/21 | [Café, Testes e Pão de Queijo](https://www.youtube.com/watch?v=SLooknLLaR0) |[52º Café, Testes e Pão de Queijo - Testando acessibilidade com Cypress](https://speakerdeck.com/brunopulis/52o-cafe-testes-e-pao-de-queijo-testando-acessibilidade-com-cypress)|[52 Café Teste com Pão de Queijo](https://github.com/brunopulis/cafe-testes-pao-de-queijo-a11y)| PT-BR|
 |17/03/21 | [DTAR Conference 2021](https://www.youtube.com/watch?v=907ljQl3XE4) | [Mitigando incosistências em API Rest através de testes de retrocompatibilidade](https://speakerdeck.com/brunopulis/mitigando-incosistencias-em-api-rest-atraves-de-testes-de-retrocompatibilidade) |-| PT-BR|
