@@ -12,7 +12,7 @@ Todas as apresentações eu fiz no passado, elas estão ordenadas por data.
 
 | Data    | Evento          | Titulo               | Localizacao   |  Idioma   |
 |:----:   |---------------- |----------------------|:-------------:| :--------:|
-|19/10/21 | [UNA Cidade Universitária](https://www.sympla.com.br/desenvolvimento-com-praticas-acessiveis__1369385) | [Desenvolvimento acessível](https://speakerdeck.com/brunopulis/tecnicas-para-um-desenvolvimento-acessivel)            | Online        | PT-BR     |
+|02/02/23 | Live do Ved | O fantástico mundo da acessibilidade | Online        | PT-BR     |
 
 ### Apresentações anteriores
 
