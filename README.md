@@ -12,7 +12,7 @@ Todas as apresentações eu fiz no passado, elas estão ordenadas por data.
 
 | Data    | Evento          | Titulo               | Localizacao   |  Idioma   |
 |:----:   |---------------- |----------------------|:-------------:| :--------:|
-|02/02/23 | Live do Ved | O fascinante universo da acessibilidade web | Online        | PT-BR     |
+|02/02/23 | Live do Ved | [O fascinante universo da acessibilidade web](https://www.youtube.com/watch?v=EfSLNSmiMi8&list=PLlzueRTKpBcG8iXa0Dx4AdK2cfitVabxB&ab_channel=FabioVedovelli) | Online        | PT-BR     |
 
 ### Apresentações anteriores
 
