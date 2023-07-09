@@ -12,12 +12,13 @@ Todas as apresentações eu fiz no passado, elas estão ordenadas por data.
 
 | Data    | Evento          | Titulo               | Localizacao   |  Idioma   |
 |:----:   |---------------- |----------------------|:-------------:| :--------:|
-|02/02/23 | Live do Ved | [O fascinante universo da acessibilidade web](https://www.youtube.com/watch?v=EfSLNSmiMi8&list=PLlzueRTKpBcG8iXa0Dx4AdK2cfitVabxB&ab_channel=FabioVedovelli) | Online        | PT-BR     |
+
 
 ### Apresentações anteriores
 
 | Data    | Evento          | Titulo / Slide Deck  | Repositorio   |  Idioma   |
 |:----:   |---------------- |----------------------| ------------- | :--------:|
+|02/02/23 | Live do Ved | [O fascinante universo da acessibilidade web](https://www.youtube.com/watch?v=EfSLNSmiMi8&list=PLlzueRTKpBcG8iXa0Dx4AdK2cfitVabxB&ab_channel=FabioVedovelli) | Online        | PT-BR     |
 |28/09/21 | Semana de Sustentabilidade e Responsabilidade Social 2021 | [Desenvolvimento com práticas acessíveis](https://speakerdeck.com/brunopulis/desenvolvimento-com-praticas-acessiveis) |  | PT-BR|
 | 24/08/21 | [Projeto Testers](https://www.youtube.com/watch?v=zkXqR0dNxj4) | [Analista de Acessibilidade](https://www.youtube.com/watch?v=6cfdgf-VLA0) | | PT-BR |
 |29/04/21 | [Café, Testes e Pão de Queijo](https://www.youtube.com/watch?v=SLooknLLaR0) |[52º Café, Testes e Pão de Queijo - Testando acessibilidade com Cypress](https://speakerdeck.com/brunopulis/52o-cafe-testes-e-pao-de-queijo-testando-acessibilidade-com-cypress)|[52 Café Teste com Pão de Queijo](https://github.com/brunopulis/cafe-testes-pao-de-queijo-a11y)| PT-BR|
@@ -28,8 +29,6 @@ Todas as apresentações eu fiz no passado, elas estão ordenadas por data.
 |20/10/20 | [Hacktoberfest BH](https://www.youtube.com/watch?v=eX2FfNlN89Q) |[Precisamos falar sobre HTML](https://speakerdeck.com/brunopulis/precisamos-falar-sobre-html)| - | PT-BR|
 |21/09/20 | [TSPI Conference 2020: Mentalidade e Métodos](https://www.youtube.com/watch?v=vybPVh29N-0) |[A acessibilidade durante a Pandemia](https://speakerdeck.com/brunopulis/a-acessibilidade-durante-a-pandemia)| - | PT-BR|
 |24/09/19 | 7 Semana de Sustentabilidade e Responsibilidade Social 2019 |[Desenvolvendo sites com empatia](https://speakerdeck.com/brunopulis/desenvolvendo-sites-com-empatia)| - | PT-BR|
-|14/05/19 | [The Developer Conference 2019 - Belo Horizonte](https://thedevconf.com/tdc/2019/belohorizonte) |[Always bet on A11y](https://speakerdeck.com/brunopulis/always-bet-on-a11y)|  | PT-BR|
-|19/11/17 | GDG DevFest Nordeste |[O lado oculto dos componentes - acessibilidade como sua aliada](https://speakerdeck.com/brunopulis/o-lado-oculto-dos-componentes-acessibilidade-como-sua-aliada)|  | PT-BR|
 |19/11/17 | GDG DevFest Belo Horizonte |[O lado oculto dos componentes - acessibilidade como sua aliada](https://speakerdeck.com/brunopulis/o-lado-oculto-dos-componentes-acessibilidade-como-sua-aliada)|  | PT-BR|
 |19/11/17 | GDG DevFest Nordeste |[Componentes: o lado sombrio que não te contaram](https://speakerdeck.com/brunopulis/componentes-o-lado-sombrio-que-nao-te-contaram)|  | PT-BR|
 |17/11/14 | Semana Uni+ |[Tunando sua App com WAI-ARIA](https://speakerdeck.com/brunopulis/tunando-sua-app-com-wai-aria)|  |PT-BR|
